@@ -9,3 +9,4 @@ Basic Python
 Data Handling
 - numpy_practices.ipynb
 - pandas_practices_1.ipynb
+- pandas_practices_2.ipynb
