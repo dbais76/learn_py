@@ -6,3 +6,6 @@ Basic Python
 - my_practice_1.ipynb
 - my_practice_2.ipynb
 
+Data Handling
+- numpy_practices.ipynb
+- pandas_practices_1.ipynb
